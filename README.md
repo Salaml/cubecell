@@ -1,5 +1,5 @@
-# cubecell
-Examples for Heltec Cubecell
+# Cubecell
+code moved to https://github.com/Salaml/sensor-networks -> code
 
 ## Pingpong
 Function:

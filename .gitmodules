@@ -1,0 +1,3 @@
+[submodule "sensor-networks"]
+	path = sensor-networks
+	url = https://github.com/Salaml/sensor-networks.git
